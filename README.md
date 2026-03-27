@@ -1,3 +1,5 @@
+[English](./README.en.md) | **繁體中文**
+
 # datadevdex
 
 一個為 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 打造的 **自我進化 Tech Lead 人格系統**。
